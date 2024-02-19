@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakinaamin
-- 🌱 I’m currently reading DPhil in Biochemistry at Oxford university
+- 🌱 I’m currently reading DPhil in Biochemistry at Oxford university with Dr Rachael Bashford-Rogers and Prof Mike Dustin
 - 📫 How to reach me: sakina.amin@sjc.ox.ac.uk
 
 <!---
